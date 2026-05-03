@@ -144,7 +144,7 @@ I focus on solving real-world business problems using data — not just analyzin
 ## 📬 Connect With Me
 
 * 📧 Email: [arunabha.roy09@gmail.com](mailto:arunabha.roy09@gmail.com)
-* 💼 LinkedIn: *(Add your link)*
+* 💼 LinkedIn:(https://www.linkedin.com/in/arunabha-roy-48b5b3344/)
 * 📍 Location: India *(Open to relocation 🌏)*
 
 ---
