@@ -2,6 +2,13 @@
 
 # 🚀 Arunabha Roy — Data & Operations Strategist
 
+<p align="center">
+  <img src="Gemini_Generated_Image_m8g7fwm8g7fwm8g7.png" width="200" style="border-radius:50%;" />
+</p>
+
+<h1 align="center">Arunabha Roy</h1>
+<p align="center"><b>Data & Operations Strategist</b></p>
+
 **Turning data into decisions • systems into scale • operations into profit**
 
 ---
